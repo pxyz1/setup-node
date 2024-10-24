@@ -12,7 +12,7 @@ This action provides the following functionality for GitHub Actions users:
 - Registering problem matchers for error output
 - Configuring authentication for GPR or npm
 
-## Usage
+## Usage 1
 
 See [action.yml](action.yml)
 
